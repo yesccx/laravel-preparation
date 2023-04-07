@@ -1,0 +1,23 @@
+<?php
+
+declare(strict_types = 1);
+
+namespace {{ namespace }};
+
+use Yesccx\Preparation\BasePre;
+use Yesccx\Preparation\Exceptions\PreparationException;
+
+final class {{ class }} extends BasePre
+{
+    /**
+     * Main
+     *
+     * @return void
+     *
+     * @throws \Throwable|PreparationException
+     */
+    public function handle()
+    {
+
+    }
+}
