@@ -1,6 +1,12 @@
 <h1 align="center">Laravel-Preparation</h1>
 <p align="center">Laravel Http 前置处理器</p>
 
+<p align="center"><a href="https://github.com/yesccx/laravel-preparation"><img alt="For Laravel 5" src="https://img.shields.io/badge/laravel-9.*-green.svg" style="max-width:100%;"></a>
+<a href="https://packagist.org/packages/yesccx/laravel-preparation"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/yesccx/laravel-preparation.svg" style="max-width:100%;"></a>
+<a href="https://packagist.org/packages/yesccx/laravel-preparation"><img alt="Latest Unstable Version" src="https://img.shields.io/packagist/vpre/yesccx/laravel-preparation.svg" style="max-width:100%;"></a>
+<a href="https://packagist.org/packages/yesccx/laravel-preparation"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/yesccx/laravel-preparation.svg?maxAge=2592000" style="max-width:100%;"></a>
+<a href="https://packagist.org/packages/yesccx/laravel-preparation"><img alt="License" src="https://img.shields.io/packagist/l/yesccx/laravel-preparation.svg?maxAge=2592000" style="max-width:100%;"></a></p>
+
 # 目录
 - [目录](#目录)
 - [安装](#安装)
