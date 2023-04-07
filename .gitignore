@@ -1,4 +1,3 @@
 .vscode/settings.json
-composer.json
 vendor
 .php-cs-fixer.php

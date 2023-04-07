@@ -1,0 +1,42 @@
+{
+    "name": "yesccx/laravel-preparation",
+    "type": "library",
+    "description": "laravel http preparation",
+    "keywords": [
+        "laravel",
+        "http preparation",
+        "yesccx"
+    ],
+    "homepage": "https://github.com/yesccx/laravel-preparation",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yesccx\\Preparation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yesccx",
+            "email": "yes.ccx@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0",
+        "laravel/framework": "^9.0"
+    },
+    "require-dev": {
+        "ext-json": "*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yesccx\\Preparation\\PreparationServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
